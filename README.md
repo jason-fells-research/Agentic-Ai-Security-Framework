@@ -205,7 +205,8 @@ This comprehensive analysis represents a significant contribution to the emergin
 
 ## 📄 License
 
-This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. See [LICENSE](LICENSE) file for complete terms and attribution requirements.
+This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. 
+See [LICENSE] file for complete terms and attribution requirements.
 
 ## 🔬 Research Verification
 
