@@ -10,6 +10,10 @@
 
 This repository contains a comprehensive security analysis document that combines theoretical frameworks with empirical case study findings to examine vulnerabilities in agentic AI systems. The analysis provides industry-ready insights for securing next-generation AI deployments through constitutional AI governance protocols.
 
+### View the Analysis
+
+**🔗 Paper**: https://codepen.io/Jason-Fells/live/GgpjpMg 
+
 ## 👨‍🔬 Principal Researcher
 
 **Jason Fells** | Ethraeon Systems Research Division  
@@ -33,23 +37,6 @@ This repository contains a comprehensive security analysis document that combine
 - **💼 Professional Formatting**: PDF-ready document suitable for business and academic contexts
 - **🛡️ Security Focus**: Detailed vulnerability analysis and mitigation strategies
 - **📱 Interactive Presentation**: Web-optimized with professional styling and QR code access
-
-## 🚀 Quick Start
-
-### View the Analysis
-
-**🔗 Educational Research Paper**: https://codepen.io/Jason-Fells/live/GgpjpMg 
-
-## Document Sections
-
-1. **Executive Summary** - Key findings and strategic recommendations
-2. **Background & Threat Landscape** - Comprehensive context and scope
-3. **Case Study: Recursive Agent Security** - Empirical vulnerability analysis with test data
-4. **Constitutional Framework Application** - ΔSUM Codex and SOP-AUD-L1 governance protocols
-5. **Theoretical Risk Framework** - Mathematical risk modeling and quantification
-6. **Technical Implementation Guidelines** - Practical security controls and code examples
-7. **Industry Recommendations** - Strategic implementation guidance for organizations
-8. **Future Research Directions** - Academic and industry collaboration opportunities
 
 ## Target Audience
 
