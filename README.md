@@ -26,7 +26,7 @@ This repository contains a security analysis document that combines theoretical 
 
 ### 📧 Contact Information
 - **Research Inquiries**: jason.fells@pm.me
-- **Pledge**: ethraeon.systems/pledge
+- **Pledge**: https://www.ethraeon.systems/pledge
 - **Partnership Inquiries**: info@ethraeon.systems
 - **Legal/Formal Matters**: legal@ethraeon.systems
 - **Academic Profile**: https://orcid.org/0009-0008-8254-8411
