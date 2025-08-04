@@ -163,8 +163,8 @@ For research funding, institutional partnerships, or organizational support:
 
 ### Professional Contact Channels
 - **Technical Research**: jason.fells@pm.me (Encrypted via ProtonMail)
-- **Funding & Partnerships**: orbital_research_org@protonmail.ch
-- **Legal & Formal**: legal.ethraeonsystems@protonmail.ch
+- **Funding & Partnerships**: info@ethraeon.systems
+- **Legal & Formal**: legal@ethraeon.systems
 - **Academic Verification**: [ORCID Profile](https://orcid.org/0009-0008-8254-8411)
 
 ### Research Specializations
